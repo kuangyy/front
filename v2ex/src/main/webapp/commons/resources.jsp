@@ -26,7 +26,14 @@
 
 <!-- #css -->
 <link rel="stylesheet" type="text/css" media="screen" href="${ctx}/resources/css/basic.css">
-<link rel="stylesheet" href="${ctx}/resources/css/style.css?v=${resourcesVersion}">
+<%--<link rel="stylesheet" href="${ctx}/resources/css/style.css?v=${resourcesVersion}">--%>
+<%--<link rel="stylesheet" href="${ctx}/resources/css/desktop.css?v=${resourcesVersion}">--%>
+
+
+
+
+<link rel="stylesheet" href="${ctx}/resources/css/style-mobile.css?v=${resourcesVersion}">
+<link rel="stylesheet" href="${ctx}/resources/css/mobile.css?v=${resourcesVersion}">
 
 <!-- #js -->
 <script src="https://cdn.bootcss.com/jquery/3.1.0/jquery.min.js"></script>

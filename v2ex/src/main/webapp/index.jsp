@@ -19,10 +19,10 @@
 <div id="Wrapper">
     <div class="content">
 
-        <div id="Leftbar"></div>
+        <%--<div id="Leftbar"></div>--%>
 
         <!-- rightbar -->
-        <jsp:include page="/commons/rightbar.jsp"/>
+        <%--<jsp:include page="/commons/rightbar.jsp"/>--%>
         <!-- rightbar -->
 
         <div id="Main">
